@@ -24,7 +24,6 @@ Este repositório contém todas as etapas do projeto: pré-processamento, análi
   - Algoritmos supervisionados
   - Otimização com GridSearchCV e RandomizedSearchCV
   - Avaliação com métricas e gráficos
-  - Visualização de impacto de variáveis
 
 ---
 
